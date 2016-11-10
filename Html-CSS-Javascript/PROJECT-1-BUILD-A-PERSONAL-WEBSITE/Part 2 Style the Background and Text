@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <title> Anna Dowlin </title>
+<style> 
+    h1 {
+     
+     text-align: center;
+      
+    }
+
+    p {
+      text-align: center;
+    }
+    
+    
+    body {
+      text-align: center;
+      background: black;
+      color: white;
+      font-family: Helvetica;
+      
+    }
+    
+</style>
+</head>
+
+
+<body>
+
+<h1>Anna Dowlin</h1>
+<p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
+<input type="email" placeholder="Your email">
+<input type="submit">
+
+
+</body>
