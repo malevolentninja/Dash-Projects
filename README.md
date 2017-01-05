@@ -10,9 +10,9 @@ A range of Dash Projects for basic templates and learning
 <li> Project Five: BUILD A MADLIBS GAME </li>
 </ul>
 
-<ul> Create A Tumblr Theme Stages:
+<ul> Create A Tumblr Theme Stages: COMPLETE
 
-<li> Step One: Complete prerequesite Dash Projects </li>
+<li> Step One: Complete prerequesite Dash Projects (contained in the Other folder)</li>
 <li> Step Two :BUILD A TUMBLR THEME FOR GENE </li>
 <li> Step Three: EXPORT YOUR THEME TO TUMBLR </li>
 </ul>
