@@ -17,7 +17,8 @@
 - padding 2
 - max-width
 - artilce
-- margin: 0 auto;
+- margin: 0 auto
+- script
 - on()
 - button 
 - alert()
