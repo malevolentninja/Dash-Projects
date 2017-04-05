@@ -1,7 +1,7 @@
 
 # Four: Build a CSS Robot 
 
-1. Foot , torso and Brain 
+1. Foot, torso and Brain 
 2. Advanced Positioning and animations
 3. Advanced BUttons with Javascript
 4. Update your style with JQuery
@@ -27,4 +27,4 @@
 - strings
 
 ### Summary : 
-The desingning of the robot was a simple introduction into the combination of javscript and css for images. 
+The designing of the robot was a simple introduction into the combination of javscript and css for images. 
