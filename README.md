@@ -1,18 +1,17 @@
 # Dash-Projects
 A range of Dash Projects for basic templates and learning
 
-<ul> HTML , CSS & Javascript Folder contains:
+## HTML , CSS & Javascript:
 
-<li> Project One : BUILD A PERSONAL WEBSITE </li>
-<li> Project Two: BUILD A RESPONSIVE BLOG THEME</li>
-<li> Project Three:  BUILD A SMALL BUSINESS WEBSITE </li>
-<li> Project Four:  BUILD A CSS ROBOT </li>
-<li> Project Five: BUILD A MADLIBS GAME </li>
-</ul>
+* [Project One : BUILD A PERSONAL WEBSITE](https://github.com/malevolentninja/dashProjects/tree/master/Html-CSS-Javascript/PROJECT-1-BUILD-A-PERSONAL-WEBSITE) 
+* [Project Two: BUILD A RESPONSIVE BLOG THEME](https://github.com/malevolentninja/dashProjects/tree/master/Html-CSS-Javascript/PROJECT-2-BUILD-A-RESPONSIVE-BLOG-THEME)
+* [Project Three:  BUILD A SMALL BUSINESS WEBSITE](https://github.com/malevolentninja/dashProjects/tree/master/Html-CSS-Javascript/PROJECT-3-BUILD-A-SMALL-BUSINESS-WEBSITE) 
+* [Project Four:  BUILD A CSS ROBOT](https://github.com/malevolentninja/dashProjects/tree/master/Html-CSS-Javascript/PROJECT_FOUR_BUILD_A_CSS_ROBOT)
+* [Project Five: BUILD A MADLIBS GAME](https://github.com/malevolentninja/dashProjects/tree/master/Html-CSS-Javascript/PROJECT_FIVE_BUILD_A_MADLIBS_GAME)
 
-<ul> Create A Tumblr Theme Stages: COMPLETE
 
-<li> Step One: Complete prerequesite Dash Projects (contained in the Other folder)</li>
-<li> Step Two :BUILD A TUMBLR THEME FOR GENE </li>
-<li> Step Three: EXPORT YOUR THEME TO TUMBLR </li>
-</ul>
+## [Create A Tumblr Theme Stages: COMPLETE](https://github.com/malevolentninja/dashProjects/tree/master/Build-Own-Tumblr-Theme)
+
+* Step One: Complete prerequesite Dash Projects (contained in the Other folder)
+* Step Two :BUILD A TUMBLR THEME FOR GENE 
+* Step Three: EXPORT YOUR THEME TO TUMBLR 
