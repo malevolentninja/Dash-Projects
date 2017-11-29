@@ -1,11 +1,18 @@
 # Two: Build a Responsive Blog
 
-1. Make the header and navigation HTML
-2. Stle the header with CSS
-3. Add responsive design + "like" button 
-4. Build your own blog theme
+Building a responsive blog theme. 
+- [Demo](https://codepen.io/malevolentninja/pen/qVJwMm)
 
-## Skills covered:
+Since the creation of this blog theme (first time round) I have been writing blog posts to support my own learning and consolidation of work.
+
+### Technologies
+- HTML5
+- CSS
+- SCSS
+- jQuery
+
+
+#### Skills covered from the course:
 - header
 - li 
 - a
@@ -16,7 +23,7 @@
 - border-radius
 - padding 2
 - max-width
-- artilce
+- article
 - margin: 0 auto
 - script
 - on()
@@ -25,7 +32,3 @@
 - hex color
 - media queries
 - rgba color
-
-### Summary: 
-Building a responsive blog I followed a brief which was not my own inorder to push myself to practice working for others. 
-I have since started a blog series of my adventures of code. 
