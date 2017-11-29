@@ -3,7 +3,7 @@
 
 I have since developed and reinvented the webpage and produced a demo on codepen and wrote a blog post about the improvements.
 - [Demo](https://codepen.io/malevolentninja/pen/gwPaoX)
-- [Blog](https://wordpress.com/post/urbanwudangwarrior.wordpress.com/1839)
+- [Blog](https://urbanwudangwarrior.wordpress.com/2017/11/16/restaurant-stylie/)
 
 ### Technology
 - Html5
