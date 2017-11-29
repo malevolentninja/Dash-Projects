@@ -1,9 +1,9 @@
 # Project One: Build a Personal Website 
 
-1. Make the headline and inputs 
-2. Style the background and text 
-3. Add a backgroun image and logo
-4. Build your own personal website
+Instead of making this a personal website/portfolio I decided to make this in the style of a tribute page. 
+I have decided to not select a single invdividual but rather a collection of women in Technology as I feel this would be an interesting project to redo.
+
+- [Demo](https://codepen.io/malevolentninja/pen/BWgvJN)
 
 ## SKills covered:  
 - h1-h6
@@ -26,7 +26,3 @@
 - border 
 - padding 
 - attribute selectors
-
-## Sumamry: 
-The website I designed not as a personal one but more suit an imaginary brief I had if someone were to want a particular sign up. 
-I chose to create one not for myself because I wanted to practice setting a brief and creating to what other's would like. 
