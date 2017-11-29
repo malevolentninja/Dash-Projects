@@ -1,0 +1,37 @@
+h1 {
+    color: #bf58f8;
+    text-transform: uppercase;
+}
+body {
+    text-align: center;
+    font-family:"Ubuntu";
+    font-size: 1.2em;
+    background: #ededfe;
+    color: #bf58f8;
+}
+button {
+    margin: 1em 2em;
+    padding: 1em 2em;
+    background:#bf58f8 ;
+    color: #ededfe;
+    text-transform:uppercase;
+    border-radius: 15%;
+}
+input {
+    font-size: 1em;
+}
+.fill {
+    background: white;
+    color: #b30000;
+    border-bottom: 2px #000000 solid;
+    font-family: "Lora";
+    padding: 0em 1.2em;
+    margin: .2em;
+}
+.prompt {
+    color: #000000;
+}
+footer {
+    padding: 2em 2em;
+    margin-top: 2em;
+}
