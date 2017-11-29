@@ -1,6 +1,5 @@
 $(document).ready(function() {
 
-
   // List of prompts for the user
   var prompts = [
     'Type your name:',
@@ -41,7 +40,15 @@ $(document).ready(function() {
   $('button').click(function() {
     nextPrompt();
   });
-
+  
+  // key bind to enable the return key to be used.
+  
+  $(".prompt").keyup(function(event) {
+    if (event.keyCode === 13) {
+        $("#next").click();
+    }
+});
+  
   // Show the first prompt as soon as js loads
   nextPrompt();
 
