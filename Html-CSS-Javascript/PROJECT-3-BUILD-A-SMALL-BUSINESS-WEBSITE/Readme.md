@@ -1,13 +1,20 @@
 
-# Three: Build a Small business Website 
-Mine was Restaurant menu
+# Three: Build a Small business Website -> Restaurant Menu
 
-1. Position images & text
-2. Add Webfonts and color fades 
-3. Make it mobile and interactive 
-4. Build your own buisness website
+I have since developed and reinvented the webpage and produced a demo on codepen and wrote a blog post about the improvements.
+- [Demo](https://codepen.io/malevolentninja/pen/gwPaoX)
+- [Blog](https://wordpress.com/post/urbanwudangwarrior.wordpress.com/1839)
 
-## Skills Covered:  
+### Technology
+- Html5
+- CSS
+
+### Summary: 
+- Add JavaScript for clicking on images for a description? or text for image?
+- Host on alternative site e.g. git pages or Heroku
+
+
+#### Skills Covered:  
 - class
 - position: relative
 - height
@@ -24,10 +31,3 @@ Mine was Restaurant menu
 - transition
 - opacity
 - toggleClass
-
-### Summary: 
-Designed a small business website from a brief. 
-I have since developed and reinvented the webpage and produced a demo on codepen and wrote a blog post about the improvements.
-
-- [Demo](https://codepen.io/malevolentninja/pen/gwPaoX)
-- [Blog](https://wordpress.com/post/urbanwudangwarrior.wordpress.com/1839)
