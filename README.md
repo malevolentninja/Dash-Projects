@@ -1,6 +1,10 @@
 # Dash-Projects
 A range of Dash Projects for basic templates and learning
 
+- [Demo](https://codepen.io/malevolentninja/pen/YERZex)
+- [Project files](https://github.com/malevolentninja/dashProjects/tree/master/dash_portfolio)
+- [Blog link](https://urbanwudangwarrior.wordpress.com/portfolio/dash-project-portfolio/)
+
 ## HTML , CSS & Javascript:
 
 * [Project One : BUILD A PERSONAL WEBSITE](https://github.com/malevolentninja/dashProjects/tree/master/Html-CSS-Javascript/PROJECT-1-BUILD-A-PERSONAL-WEBSITE) 
@@ -11,7 +15,6 @@ A range of Dash Projects for basic templates and learning
 
 
 ## [Create A Tumblr Theme Stages: COMPLETE](https://github.com/malevolentninja/dashProjects/tree/master/Build-Own-Tumblr-Theme)
-
 * Step One: Complete prerequesite Dash Projects (contained in the Other folder)
 * Step Two :BUILD A TUMBLR THEME FOR GENE 
 * Step Three: EXPORT YOUR THEME TO TUMBLR 
