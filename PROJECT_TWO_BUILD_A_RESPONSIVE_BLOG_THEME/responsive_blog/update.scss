@@ -1,5 +1,6 @@
 html, body {
   margin: 0;
+  padding: 0;
 }
 
 header {
@@ -11,13 +12,14 @@ header {
 
 body {
   background: #e8eaf6;
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   color: #333;
+  line-height: 1.2em;
 }
 
 h1 {
   color: #ef5350;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
   margin-left: 1em;
   font-size: 2.4em;
   text-transform: uppercase;
@@ -80,10 +82,13 @@ article {
 .header-text {
   font-family: "Ubuntu", sans-serif;
   font-size: 2em;
-  line-height: .3em;
+  line-height: 1em;
   color: #292929;
-  padding: 1em 0.5em;
-  margin: .1em .1em;
+  padding: 1.3em 1em;
+  margin: 0.1em 0.1em;
+  border: .2em solid;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .content {
@@ -101,7 +106,12 @@ article {
   -webkit-transition: border 200ms ease-in, box-shadow 150ms ease;
   transition: border 200ms ease-in, box-shadow 150ms ease;
   &:hover {
-    border: 1px solid rgba(255, 255, 255, 0.4);
+    border: 0.5em solid rgba(255, 255, 255, 0.4);
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
   }
+}
+
+#comment {
+  background: url("http://www.pptback.com/uploads/blue-squares-backgrounds-powerpoint.jpg");
 }
