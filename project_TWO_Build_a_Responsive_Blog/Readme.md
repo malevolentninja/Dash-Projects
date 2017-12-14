@@ -8,7 +8,7 @@ Since the creation of this blog theme (first time round) I have been writing blo
 ### Technologies
 - HTML5
 - CSS
-- SCSS
+- SCSS (alternative to the CSS file)
 - jQuery
 
 

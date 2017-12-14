@@ -5,6 +5,12 @@ I have decided to not select a single invdividual but rather a collection of wom
 
 - [Demo](https://codepen.io/malevolentninja/pen/BWgvJN)
 
+### Technologies
+- HTML5
+- CSS
+- SCSS (alternative to the CSS file)
+
+
 ## SKills covered:  
 - h1-h6
 - email input 
